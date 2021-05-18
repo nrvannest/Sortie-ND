@@ -1,0 +1,1 @@
+These graphs are from validation runs all parameters at normal settings as of 8-1-19. This includes the smallest seedling parameters at -2.57, which seems to be too low for some species. However, these output graphs are interesting to see how a high seedling surivival can lead to an exponential increase in density of saplings and adults in the model.
